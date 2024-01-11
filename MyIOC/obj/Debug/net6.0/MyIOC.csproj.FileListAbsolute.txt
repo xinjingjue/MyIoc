@@ -1,0 +1,14 @@
+E:\ProjectRoot\IOC\MyIOC\MyIOC\bin\Debug\net6.0\MyIOC.exe
+E:\ProjectRoot\IOC\MyIOC\MyIOC\bin\Debug\net6.0\MyIOC.deps.json
+E:\ProjectRoot\IOC\MyIOC\MyIOC\bin\Debug\net6.0\MyIOC.runtimeconfig.json
+E:\ProjectRoot\IOC\MyIOC\MyIOC\bin\Debug\net6.0\MyIOC.dll
+E:\ProjectRoot\IOC\MyIOC\MyIOC\bin\Debug\net6.0\MyIOC.pdb
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.AssemblyInfoInputs.cache
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.AssemblyInfo.cs
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.csproj.CoreCompileInputs.cache
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.dll
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\refint\MyIOC.dll
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.pdb
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\MyIOC.genruntimeconfig.cache
+E:\ProjectRoot\IOC\MyIOC\MyIOC\obj\Debug\net6.0\ref\MyIOC.dll
